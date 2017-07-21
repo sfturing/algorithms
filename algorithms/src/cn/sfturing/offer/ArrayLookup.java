@@ -12,14 +12,16 @@ package cn.sfturing.offer;
 public class ArrayLookup {
 	/**
 	 * 暴力搜索方法，时间复杂度为n^2
+	 * 
 	 * @param target
 	 * @param array
 	 * @return
 	 */
 	public boolean Find(int target, int[][] array) {
 		boolean isRange = false;
-		for (int i = 0; i <= array.length-1; i++) {
-			for (int j = 0; j <= array[0].length-1; j++) {
+		//从左上进行遍历搜索，也可以congqITA方向进行搜索，或者二分搜索，时间复杂度会有所减少。
+		for (int i = 0; i <= array.length - 1; i++) {
+			for (int j = 0; j <= array[0].length - 1; j++) {
 				if (target == array[i][j]) {
 					isRange = true;
 					break;

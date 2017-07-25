@@ -13,30 +13,31 @@ import cn.sfturing.entity.TreeNode;
 public class ReConstructBinaryTree {
 
 	public TreeNode reConstructBinaryTree(int[] pre, int[] in) {
-		TreeNode root = reConstructBinaryTree(pre, 0, pre.length - 1, in, 0, in.length - 1);
-		return root;
+		// 遍历得到结果
+		return reConstructBinaryTree(pre, 0, pre.length - 1, in, 0, in.length - 1);
+
 	}
 
 	// 前序遍历{1,2,4,7,3,5,6,8}和中序遍历序列{4,7,2,1,5,3,8,6}
 	private TreeNode reConstructBinaryTree(int[] pre, int startPre, int endPre, int[] in, int startIn, int endIn) {
-
-		if (startPre > endPre || startIn > endIn)
+		if (startPre > endPre || startIn > endIn) {
 			return null;
+		}
 		TreeNode root = new TreeNode(pre[startPre]);
-
-		for (int i = startIn; i <= endIn; i++)
-			if (in[i] == pre[startPre]) {
-				root.left = reConstructBinaryTree(pre, startPre + 1, startPre + i - startIn, in, startIn, i - 1);
-				root.right = reConstructBinaryTree(pre, i - startIn + startPre + 1, endPre, in, i + 1, endIn);
+		for (int i = startIn; i < endIn; i++) {
+			if (pre[startPre] == in[i]) {
+				root.left = reConstructBinaryTree(pre, startPre + 1, startPre - startIn + i, in, startIn, i - 1);
+				root.right = reConstructBinaryTree(pre, startPre - startIn + i + 1, endPre, in, i + 1, endIn);
 			}
 
+		}
 		return root;
 	}
 
-	public static void main(String[] arg){
+	public static void main(String[] arg) {
 		ReConstructBinaryTree binaryTree = new ReConstructBinaryTree();
-		int[] pre = {1,2,4,7,3,5,6,8};	
-		int[] in = {4,7,2,1,5,3,8,6};
+		int[] pre = { 1, 2, 4, 7, 3, 5, 6, 8 };
+		int[] in = { 4, 7, 2, 1, 5, 3, 8, 6 };
 		binaryTree.reConstructBinaryTree(pre, in);
 	}
 }

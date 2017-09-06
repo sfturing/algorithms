@@ -1,4 +1,4 @@
-package arrays;
+package cn.sfturing.arrays;
 
 import java.util.Arrays;
 /**

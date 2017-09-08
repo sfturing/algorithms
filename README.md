@@ -18,4 +18,6 @@
 4. [重建二叉树](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReConstructBinaryTree.java)
 5. [用两个栈实现队列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/StackSolution.java)
 6. [旋转数组的最小数字](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/MinNumberInRotateArray.java)
+7. [斐波那契数列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Fibonacci.java)
+
 

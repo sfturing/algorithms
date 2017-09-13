@@ -1,7 +1,7 @@
 package cn.sfturing.offer;
 
 /**
- * 大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项。
+ * 7.大家都知道斐波那契数列，现在要求输入一个整数n，请你输出斐波那契数列的第n项。
  * n<=39
  * Created by Shi Xiaohao on 2017/9/8 下午10:36.
  * E-mail:sfturing@gamil.com

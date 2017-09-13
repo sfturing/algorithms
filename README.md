@@ -21,5 +21,7 @@
 7. [斐波那契数列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Fibonacci.java)
 8. [跳台阶](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/JumpFloor.java)
 9. [变态跳台阶](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/JumpFloorII.java)
-
+10. [矩形覆盖](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/RectCover.java)
+11. [二进制表示中1的个数] (https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/NumberOf1.java)
+12. [数值的整数次方](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Power.java)
 

@@ -19,5 +19,7 @@
 5. [用两个栈实现队列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/StackSolution.java)
 6. [旋转数组的最小数字](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/MinNumberInRotateArray.java)
 7. [斐波那契数列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Fibonacci.java)
+8. [跳台阶](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/JumpFloor.java)
+9. [变态跳台阶](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/JumpFloorII.java)
 
 

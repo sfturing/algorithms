@@ -24,4 +24,5 @@
 10. [矩形覆盖](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/RectCover.java)
 11. [二进制表示中1的个数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/NumberOf1.java)
 12. [数值的整数次方](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Power.java)
+13. [调整数组顺序使奇数位于偶数前面](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReOrderArray.java)
 

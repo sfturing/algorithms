@@ -27,4 +27,5 @@
 13. [调整数组顺序使奇数位于偶数前面](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReOrderArray.java)
 14. [输入一个链表，输出该链表中倒数第k个结点](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindKthToTail.java)
 15. [反转链表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReverseList.java)
+16. [合并两个排序的列表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Merge.java)
 

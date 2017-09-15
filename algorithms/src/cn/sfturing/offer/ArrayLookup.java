@@ -17,7 +17,7 @@ public class ArrayLookup {
 	 * @param array
 	 * @return
 	 */
-	public boolean Find(int target, int[][] array) {
+	public boolean find(int target, int[][] array) {
 		boolean isRange = false;
 		//从左上进行遍历搜索，也可以congqITA方向进行搜索，或者二分搜索，时间复杂度会有所减少。
 		for (int i = 0; i <= array.length - 1; i++) {
@@ -34,7 +34,7 @@ public class ArrayLookup {
 	public static void main(String arr[]) {
 		ArrayLookup arrayLookup = new ArrayLookup();
 		int[][] array = { { 1, 2, 3, 4, 5 }, { 2, 3, 4, 5, 6 }, { 3, 4, 5, 6, 7 } };
-		boolean flag = arrayLookup.Find(1, array);
+		boolean flag = arrayLookup.find(1, array);
 		System.out.println(flag);
 
 	}

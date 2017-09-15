@@ -18,7 +18,7 @@ public class FindKthToTail {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/15 下午2:24
      */
-    public ListNode FindKthToTail(ListNode head, int k) {
+    public ListNode findKthToTail(ListNode head, int k) {
         //初始化两个指针
         ListNode pre = head;
         ListNode last = head;

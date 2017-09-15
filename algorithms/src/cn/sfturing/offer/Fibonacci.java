@@ -15,11 +15,11 @@ public class Fibonacci {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/8 下午10:39
      */
-    public static int Fibonacci(int n) {
+    public static int fibonacci(int n) {
         if (n == 1) {
             return 1;
         } else if (n > 1) {
-            return Fibonacci(n - 1) + Fibonacci(n - 2);
+            return fibonacci(n - 1) + fibonacci(n - 2);
         } else {
             return 0;
         }
@@ -33,7 +33,7 @@ public class Fibonacci {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/8 下午11:08
      */
-    public static int Fibonacci1(int n) {
+    public static int fibonacci1(int n) {
         if (n <= 0) {
             return 0;
         }
@@ -54,8 +54,8 @@ public class Fibonacci {
     }
 
     public static void main(String[] args) {
-        System.out.println(Fibonacci.Fibonacci(39));
-        System.out.println(Fibonacci.Fibonacci1(39));
+        System.out.println(Fibonacci.fibonacci(39));
+        System.out.println(Fibonacci.fibonacci1(39));
     }
 
 

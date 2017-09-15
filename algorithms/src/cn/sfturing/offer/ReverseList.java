@@ -17,7 +17,7 @@ public class ReverseList {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/15 下午4:33
      */
-    public ListNode ReverseList(ListNode head) {
+    public ListNode reverseList(ListNode head) {
         ListNode pre = null;
         ListNode next = null;
         //判断非空

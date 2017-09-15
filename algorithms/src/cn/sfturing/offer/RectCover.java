@@ -42,13 +42,13 @@ public class RectCover {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/13 下午8:14
      */
-    public static int RectCover(int target) {
+    public static int rectCover(int target) {
         if (target <= 0){
             return 0;
         }else if (target == 1 || target ==2){
             return target;
         }else {
-            return RectCover(target - 1) + RectCover(target - 2);
+            return rectCover(target - 1) + rectCover(target - 2);
         }
 
     }
@@ -59,7 +59,7 @@ public class RectCover {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/13 下午8:17
      */
-    public static int RectCover1(int target){
+    public static int rectCover1(int target){
         if (target <= 0){
             return 0;
         }else if (target == 1 || target ==2){
@@ -78,8 +78,8 @@ public class RectCover {
     }
 
     public static void main(String[] args) {
-        System.out.println(RectCover.RectCover(39));
-        System.out.println(RectCover.RectCover1(39));
+        System.out.println(RectCover.rectCover(39));
+        System.out.println(RectCover.rectCover1(39));
     }
 
 }

@@ -14,7 +14,7 @@ public class Power {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/13 下午11:24
      */
-    public static double Power(double base, int exponent) {
+    public static double power(double base, int exponent) {
         int ex;
         double value = base;
         if (exponent > 0) {

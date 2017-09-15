@@ -14,7 +14,7 @@ public class JumpFloor {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/13 下午4:46
      */
-    public static int JumpFloor(int target) {
+    public static int jumpFloor(int target) {
         if (target <= 0) {
 
             return 0;
@@ -24,7 +24,7 @@ public class JumpFloor {
         else if (target == 2){
             return 2;
         }else {
-            return JumpFloor(target - 1) + JumpFloor(target - 2);
+            return jumpFloor(target - 1) + jumpFloor(target - 2);
         }
     }
 
@@ -35,7 +35,7 @@ public class JumpFloor {
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/13 下午5:06
      */
-    public static int JumpFloor1(int target) {
+    public static int jumpFloor1(int target) {
         if (target <= 0) {
 
             return 0;
@@ -58,8 +58,8 @@ public class JumpFloor {
 
     }
     public static void main(String[] args) {
-        System.out.println(JumpFloor.JumpFloor(39));
-        System.out.println(JumpFloor.JumpFloor1(39));
+        System.out.println(JumpFloor.jumpFloor(39));
+        System.out.println(JumpFloor.jumpFloor1(39));
     }
 
 }

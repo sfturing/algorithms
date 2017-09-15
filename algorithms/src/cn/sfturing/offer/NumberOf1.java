@@ -30,7 +30,7 @@ public class NumberOf1 {
      * @return
      */
 
-    public int NumberOf1(int n) {
+    public int numberOf1(int n) {
         int count = 0;
         while (n != 0) {
             count++;

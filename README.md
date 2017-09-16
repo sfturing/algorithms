@@ -1,15 +1,5 @@
 # algorithms
-
-基础算法、基础数据结构
-### 基本数组算法
-1. [倒置](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/ArrayFlipping.java)
-2. [最大最小值](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/MaxMinValue.java)
-3. [合并数组](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/MergingArrays.java)
-4. [重复的数组](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/RepetitionInArray.java)
-5. [分离数组](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/SplitArray.java)
-### 查找
-1. [顺序查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/search/SequentialSerach.java)
-2. [二分查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/search/BinarySearch.java)
+基础算法、基础数据结构，剑指offer习题算法。对于每一个算法，都清楚的记录了我自己的想法，比较绕的地方也加了的注释，希望能够达到学习交流的目的，如果您有比较好的想法或者发现代码中不足的地方，请联系邮箱：sfturing@gmail.com。如果觉得不错，请为它[支持](https://github.com/sfturing/algorithms/stargazers)！
 ### 剑指offer
 剑指offer习题集
 1. [二维数组中的查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ArrayLookup.java)
@@ -29,4 +19,16 @@
 15. [反转链表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReverseList.java)
 16. [合并两个排序的列表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Merge.java)
 17. [树的子结构](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/HasSubtree.java)
+
+
+
+### 基本数组算法
+1. [倒置](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/ArrayFlipping.java)
+2. [最大最小值](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/MaxMinValue.java)
+3. [合并数组](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/MergingArrays.java)
+4. [重复的数组](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/RepetitionInArray.java)
+5. [分离数组](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/arrays/SplitArray.java)
+### 查找
+1. [顺序查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/search/SequentialSerach.java)
+2. [二分查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/search/BinarySearch.java)
 

@@ -28,4 +28,5 @@
 14. [输入一个链表，输出该链表中倒数第k个结点](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindKthToTail.java)
 15. [反转链表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReverseList.java)
 16. [合并两个排序的列表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Merge.java)
+17. [树的子结构](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/HasSubtree.java)
 

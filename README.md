@@ -19,6 +19,8 @@
 15. [反转链表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReverseList.java)
 16. [合并两个排序的列表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Merge.java)
 17. [树的子结构](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/HasSubtree.java)
+18. [二叉树的镜像](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Mirror.java)
+19. [顺时针打印矩阵](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/PrintMatrix.java)
 
 
 

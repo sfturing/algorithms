@@ -23,10 +23,11 @@ public class ReConstructBinaryTree {
             return null;
         }
         TreeNode root = new TreeNode(pre[startPre]);
-        for (int i = startIn; i <=endIn; i++) {
+        // i - startIn等于左子树长度,加上括号便于理解
+        for (int i = startIn; i <= endIn; i++) {
             if (pre[startPre] == in[i]) {
-                root.left = reConstructBinaryTree(pre, startPre + 1, startPre - startIn + i, in, startIn, i - 1);
-                root.right = reConstructBinaryTree(pre, startPre - startIn + i + 1, endPre, in, i + 1, endIn);
+                root.left = reConstructBinaryTree(pre, startPre + 1, startPre + (i - startIn), in, startIn, i - 1);
+                root.right = reConstructBinaryTree(pre, startPre + (i - startIn) + 1, endPre, in, i + 1, endIn);
             }
 
         }

@@ -21,6 +21,7 @@
 17. [树的子结构](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/HasSubtree.java)
 18. [二叉树的镜像](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Mirror.java)
 19. [顺时针打印矩阵](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/PrintMatrix.java)
+20. [包含min函数的栈](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/MinStack.java)
 
 
 

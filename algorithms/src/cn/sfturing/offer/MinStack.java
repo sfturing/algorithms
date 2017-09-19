@@ -8,7 +8,7 @@ import java.util.Stack;
  */
 
 /**
- * 实现一个栈，能够得到栈最小元素的min函数，要求复杂度为O（1）,相当于用了一个辅助栈。
+ * 20.实现一个栈，能够得到栈最小元素的min函数，要求复杂度为O（1）,相当于用了一个辅助栈。
  */
 public class MinStack {
     Stack<Integer> data = new Stack<Integer>();

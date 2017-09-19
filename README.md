@@ -22,6 +22,9 @@
 18. [二叉树的镜像](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Mirror.java)
 19. [顺时针打印矩阵](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/PrintMatrix.java)
 20. [包含min函数的栈](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/MinStack.java)
+21. [栈的压入、弹出序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/IsPopOrder.java)
+22. [从上打印二叉树](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/PrintFromTopToBottom.java)
+23. [二叉搜索树的后序遍历序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/VerifySquenceOfBST.java)
 
 
 

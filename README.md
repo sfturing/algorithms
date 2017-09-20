@@ -1,5 +1,5 @@
 # algorithms
-基础算法、基础数据结构，剑指offer习题算法。对于每一个算法，都清楚的记录了我自己的想法，比较绕的地方也加了的注释，希望能够达到学习交流的目的，如果您有比较好的想法或者发现代码中不足的地方，请联系邮箱：sfturing@gmail.com。如果觉得不错，请为它[支持](https://github.com/sfturing/algorithms/stargazers)！
+基础算法、基础数据结构，剑指offer习题算法。对于每一个算法，都清楚的记录了我自己的想法，比较绕的地方也加了的注释，希望能够达到学习交流的目的，如果您有比较好的想法或者发现代码中不足的地方，请联系邮箱：sfturing@gmail.com。如果觉得不错，请为它[STAR](https://github.com/sfturing/algorithms/stargazers)！
 ### 剑指offer
 剑指offer习题集
 1. [二维数组中的查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ArrayLookup.java)
@@ -27,6 +27,8 @@
 23. [二叉搜索树的后序遍历序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/VerifySquenceOfBST.java)
 24. [二叉树中和为某一值的路径](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindPath.java)
 25. [复杂链表的复制](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Clone.java)
+26. [二叉搜索树与双向链表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Convert.java)
+27. [字符串的排列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Permutation.java)
 
 
 

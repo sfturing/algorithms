@@ -79,6 +79,7 @@ public class Clone {
             pNode = pNode.next;
 
         }
+        //为什么有上一步，如果不先为copy赋值的话，null会报NPL（空指针）
         while (pNode != null) {
             pNodeCopy.next = pNode.next;
             pNodeCopy = pNodeCopy.next;

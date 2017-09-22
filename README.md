@@ -29,6 +29,9 @@
 25. [复杂链表的复制](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Clone.java)
 26. [二叉搜索树与双向链表](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Convert.java)
 27. [字符串的排列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Permutation.java)
+28. [数组中次数超过一半的数字](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/MoreThanHalfNum.java)
+29. [最小的k个数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetLeastNumbers.java)
+30. [连续子数组的最大和](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindGreatestSumOfSubArray.java)
 
 
 

@@ -32,6 +32,7 @@
 28. [数组中次数超过一半的数字](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/MoreThanHalfNum.java)
 29. [最小的k个数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetLeastNumbers.java)
 30. [连续子数组的最大和](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindGreatestSumOfSubArray.java)
+31. [整数中1出现的次数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/NumberOf1Between1AndN.java)
 
 
 
@@ -44,4 +45,12 @@
 ### 查找
 1. [顺序查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/search/SequentialSerach.java)
 2. [二分查找](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/search/BinarySearch.java)
+
+
+### 排序
+1.[冒泡排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/BubbleSort.java)
+2. [插入排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/InsertSort.java)
+3. [快速排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/QuickSort.java)
+4. [选择排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/SelectionSort.java)
+5. [希尔排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/ShellSort.java)
 

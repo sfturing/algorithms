@@ -33,6 +33,10 @@
 29. [最小的k个数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetLeastNumbers.java)
 30. [连续子数组的最大和](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindGreatestSumOfSubArray.java)
 31. [整数中1出现的次数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/NumberOf1Between1AndN.java)
+32. [把数组排成最小的数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/PrintMinNumber.java)
+33. [丑数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetUglyNumber.java)
+34. [第一个只出现一次的字符](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FirstNotRepeatingChar.java)
+35. [数组中的逆序对](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/InversePairs.java)
 
 
 
@@ -53,4 +57,6 @@
 3. [快速排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/QuickSort.java)
 4. [选择排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/SelectionSort.java)
 5. [希尔排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/ShellSort.java)
+6. [归并排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/MergeSort.java)
+
 

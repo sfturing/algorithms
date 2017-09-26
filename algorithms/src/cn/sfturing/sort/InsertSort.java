@@ -9,14 +9,13 @@ import java.util.Arrays;
  */
 
 /**
- *
  * 简单的直接插入排序
  */
 public class InsertSort {
 
     /**
      * @ClassName:InsertSort
-     * @Description:直接插入排序，时间复杂度为O（n）
+     * @Description:直接插入排序，时间复杂度为O（n^2）
      * @Author:Shi Xiaohao
      * @E-mail:sfturing@gmail.com
      * @Date :2017/9/22 下午6:26
@@ -50,4 +49,6 @@ public class InsertSort {
         int[] arr = {6, 3, 4, 5, 1};
         System.out.println(InsertSort.insertSort(arr));
     }
+
+
 }

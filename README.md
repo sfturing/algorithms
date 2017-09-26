@@ -37,6 +37,8 @@
 33. [丑数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetUglyNumber.java)
 34. [第一个只出现一次的字符](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FirstNotRepeatingChar.java)
 35. [数组中的逆序对](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/InversePairs.java)
+36. [两个链表的公共结点](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindFirstCommonNode.java)
+37. [数字在排序数组中出现的次数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetNumberOfK.java)
 
 
 

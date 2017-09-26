@@ -42,7 +42,7 @@ public class GetLeastNumbers {
     public static void quick(int[] arry, int low, int high) {
         if (low < high) {
             int middle = quickSerach(arry, low, high);
-            quick(arry, 0, middle - 1);
+            quick(arry, low, middle - 1);
             quick(arry, middle + 1, high);
         }
     }

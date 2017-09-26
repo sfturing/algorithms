@@ -39,6 +39,10 @@
 35. [数组中的逆序对](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/InversePairs.java)
 36. [两个链表的公共结点](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindFirstCommonNode.java)
 37. [数字在排序数组中出现的次数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/GetNumberOfK.java)
+38. [二叉树的深度](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/TreeDepth.java)
+39. [平衡二叉树](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/IsBalanced.java)
+40. [数组中只出现一次的数字](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindNumsAppearOnce.java)
+41. [和为S的连续正数序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindContinuousSequence.java)
 
 
 

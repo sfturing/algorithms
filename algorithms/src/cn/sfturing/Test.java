@@ -1,10 +1,9 @@
 package cn.sfturing;
 
-import cn.sfturing.entity.RandomListNode;
-import cn.sfturing.entity.TreeNode;
-import cn.sfturing.offer.Clone;
 
-import java.util.Stack;
+
+import java.util.Scanner;
+
 
 /**
  * Created by Shi Xiaohao on 2017/9/10 下午5:19.
@@ -13,9 +12,19 @@ import java.util.Stack;
  */
 public class Test {
 
+
+
     public static void main(String[] args) {
-        System.out.println(1^7^1^7);
+        String a = "abcXYZdef";
+        String b=a.substring(0,3);
+        String c=a.substring(3,a.length());
+        String d = c + b;
+        System.out.println(d);
+
+
+
     }
+
 
 }
 

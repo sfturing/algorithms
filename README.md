@@ -43,6 +43,7 @@
 39. [平衡二叉树](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/IsBalanced.java)
 40. [数组中只出现一次的数字](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindNumsAppearOnce.java)
 41. [和为S的连续正数序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindContinuousSequence.java)
+42. [左旋转字符串](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/LeftRotateString.java)
 
 
 

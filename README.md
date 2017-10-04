@@ -45,6 +45,7 @@
 41. [和为S的连续正数序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/FindContinuousSequence.java)
 42. [左旋转字符串](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/LeftRotateString.java)
 43. [翻转单词顺序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReverseSentence.java)
+44. [扑克牌顺子](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/IsContinuous.java)
 
 
 

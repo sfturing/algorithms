@@ -15,11 +15,9 @@ public class Test {
 
 
     public static void main(String[] args) {
-        String a = "abcXYZdef";
-        String b=a.substring(0,3);
-        String c=a.substring(3,a.length());
-        String d = c + b;
-        System.out.println(d);
+        String a = "abc XYZdef";
+        char[] d = a.toCharArray();
+        System.out.println(d[3]==' ');
 
 
 

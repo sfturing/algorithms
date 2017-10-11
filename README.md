@@ -46,6 +46,9 @@
 42. [左旋转字符串](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/LeftRotateString.java)
 43. [翻转单词顺序列](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/ReverseSentence.java)
 44. [扑克牌顺子](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/IsContinuous.java)
+45. [求1+2+3+...+n](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Sum_Solution.java)
+46. [不用加减乘除做加法](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/Add.java)
+47. [把字符串转换成整数](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/offer/StrToInt.java)
 
 
 

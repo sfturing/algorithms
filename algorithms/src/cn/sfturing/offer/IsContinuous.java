@@ -30,7 +30,13 @@ public class IsContinuous {
         boolean flag = false;
         int[] num = quickSort(numbers, 0, numbers.length - 1);
         //判断是有几个0;
-        int zero = num[3] == 0 ? 4 : num[2] == 0 ? 3 : num[1] == 0 ? 2 : num[0] == 0 ? 1 : 0;
+        //int zero = num[3] == 0 ? 4 : num[2] == 0 ? 3 : num[1] == 0 ? 2 : num[0] == 0 ? 1 : 0;
+        int zero = 0;
+        for (int i = 0; i < 5;i++){
+            if (num[i] == 0){
+                zero++;
+            }
+        }
         int temp = zero;
         //设置两个相邻的指针，相减得到差，如果是相同的数目，得到-1，不是顺子，返回false.0代表大王，可以当作任意数，如果没有大王，则最大的数减去最小的数为4，
         //加入大小王之后，大小数之差可以小于 4+zero的数目。 感觉代码写的和狗屎一样啊啊啊啊啊啊啊啊。懒得改了。

@@ -64,11 +64,13 @@
 
 
 ### 排序
-1.[冒泡排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/BubbleSort.java)
+1. [冒泡排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/BubbleSort.java)
 2. [插入排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/InsertSort.java)
 3. [快速排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/QuickSort.java)
 4. [选择排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/SelectionSort.java)
 5. [希尔排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/ShellSort.java)
 6. [归并排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/MergeSort.java)
 
+### LeetCode
+146. [LRU 缓存](algorithms/blob/master/algorithms/src/cn/sfturing/sort/BubbleSort.java)
 

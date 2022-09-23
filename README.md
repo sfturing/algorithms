@@ -72,5 +72,5 @@
 6. [归并排序](https://github.com/sfturing/algorithms/blob/master/algorithms/src/cn/sfturing/sort/MergeSort.java)
 
 ### LeetCode
-146. [LRU 缓存](algorithms/src/cn/sfturing/sort/BubbleSort.java)
+146. [LRU 缓存](algorithms/src/cn/sfturing/leetcode/LRUCache.java)
 
